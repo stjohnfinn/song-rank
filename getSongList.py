@@ -2,8 +2,8 @@ import spotipy
 from spotipy import SpotifyClientCredentials
 from spotipy import client
 
-SPOTIPY_CLIENT_ID = 'd2b141136bb14f7eb7cf893d54a460b7'
-SPOTIPY_CLIENT_SECRET = '1e0845c19e584488bf6c571285e800fa'
+SPOTIPY_CLIENT_ID = ''
+SPOTIPY_CLIENT_SECRET = ''
 
 def getSongList(playlistId):
 
